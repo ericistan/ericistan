@@ -51,7 +51,7 @@ I bridge the gap between **design and development** — taking ideas from whiteb
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericistan&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
