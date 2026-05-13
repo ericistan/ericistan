@@ -21,12 +21,6 @@ I design and build at the intersection of user experience and code. Currently at
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Web3](https://img.shields.io/badge/-Web3-000?&logo=web3dotjs)
  
-### Featured Projects
- 
-[![](https://img.shields.io/badge/-🪙%20Metafyed%20—%20RWA%20Tokenization%20Platform-000)](https://metafyed.com)
-[![](https://img.shields.io/badge/-📈%20Koin%20Sight%20—%20Crypto%20Portfolio%20Tracker-000)](https://github.com/ericistan/koin-sight)
-[![](https://img.shields.io/badge/-🚀%20SW%20Bounty%20Hunter%20—%20Star%20Wars%20Character%20App-000)](https://github.com/ericistan/SW-Bounty-Hunter)
- 
 ### Background
  
 4+ years as a **UI/UX designer** across Web3 startups, e-commerce, and digital consulting — from Vancouver to Singapore. Now writing the code behind the interfaces I used to design.
