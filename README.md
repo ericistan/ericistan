@@ -20,7 +20,7 @@ I design and build at the intersection of user experience and code. Currently at
 ![Framer](https://img.shields.io/badge/-Framer-000?&logo=Framer)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Web3](https://img.shields.io/badge/-Web3-000?&logo=web3dotjs)
- 
+
 ### Background
  
 4+ years as a **UI/UX designer** across Web3 startups, e-commerce, and digital consulting from Vancouver to Singapore. Now building with code behind the interfaces I used to design for.
@@ -32,6 +32,7 @@ Currently:
   Shipping:   Metafyed's tokenization platform
   Goal:       AI UX Engineer roles in Singapore
 ```
+---
  
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericistan&hide_border=true" height="150" alt="GitHub streak" />
