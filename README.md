@@ -40,7 +40,6 @@ Currently:
 ```
  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericistan&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ffffff,ffffff&theme=graywhite" height="150" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericistan&hide_border=true" height="150" alt="GitHub streak" />
 </p>
  
