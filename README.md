@@ -52,7 +52,6 @@ I bridge the gap between **design and development** — taking ideas from whiteb
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericistan&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericistan&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
