@@ -23,7 +23,7 @@ I design and build at the intersection of user experience and code. Currently at
  
 ### Background
  
-4+ years as a **UI/UX designer** across Web3 startups, e-commerce, and digital consulting — from Vancouver to Singapore. Now writing the code behind the interfaces I used to design.
+4+ years as a **UI/UX designer** across Web3 startups, e-commerce, and digital consulting from Vancouver to Singapore. Now building with code behind the interfaces I used to design for.
  
 ```yaml
 Currently:
