@@ -1,6 +1,6 @@
-**UX Engineer · Web3 Builder · Draper Hero Alumni**
+**Product Engineer · Web3 Builder · Draper Hero Alumni**
  
-I design and build at the intersection of user experience and code. Currently at **[General Assembly Singapore](https://generalassemb.ly/)** transitioning into **AI-powered UX Engineering**.
+3+ years as a UX/UI designer, now a frontend developer who builds the interfaces I used to design. I think in components and design systems by default, which means I write frontend code that's functional while looking great."**.
 
 📍 Singapore &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ericistan) &nbsp;·&nbsp; [𝕏](https://x.com/Ericistan)
  
