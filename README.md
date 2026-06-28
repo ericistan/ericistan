@@ -21,16 +21,13 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Web3](https://img.shields.io/badge/-Web3-000?&logo=web3dotjs)
 
-### Background
- 
-4+ years as a **UI/UX designer** across Web3 startups, e-commerce, and digital consulting from Vancouver to Singapore. Now building with code behind the interfaces I used to design for.
  
 ```yaml
 Currently:
   Building:   Fullstack projects @ General Assembly
   Exploring:  AI + UX patterns with Claude Code & Perplexity
   Shipping:   Metafyed's tokenization platform
-  Goal:       AI UX Engineer roles in Singapore
+  Goal:       Design Engineer roles in Singapore
 ```
 ---
  
