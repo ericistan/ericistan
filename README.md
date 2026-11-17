@@ -11,8 +11,9 @@ I build the interfaces I used to design. 4+ years UX/UI at Web3 startups, now de
 - **Formjo**: Coaches assign training and review athlete video. Built end to end, without AI.
 
 ### Stack
-**Core:** TypeScript · React · Next.js · Tailwind CSS · Supabase
-**Design:** Figma · Paper.design · design systems
+- **Core:**: TypeScript · React · Next.js · Tailwind CSS · Supabase
+- **Design:**: Figma · Paper.design · design systems
+- **AI Tools**: Claude Code · T3 Code · Hermes · Codex · Deepseek & Kimi Code · Paper.design
 
 ### Currently
 Shipping weekly at Zenko.gg and building the Riftbound binder. **Open to Design Engineer roles in Singapore**
